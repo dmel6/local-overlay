@@ -1,3 +1,5 @@
+a gentoo overlay that fixes spotify
+
 ```
 doas emerge --ask app-eselect/eselect-repository dev-vcs/git
 ```
